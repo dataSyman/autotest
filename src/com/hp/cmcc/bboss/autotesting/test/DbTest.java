@@ -8,7 +8,7 @@ public class DbTest {
 
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-//step1:依据log_info_repost status更新autotesting_case表check_status111111
+//step1:依据log_info_repost status更新autotesting_case表check_status
 //		logInfoDaoImpl li = new logInfoDaoImpl();
 //		List list = li.findByNeed();
 //		Iterator iterator = list.iterator();
