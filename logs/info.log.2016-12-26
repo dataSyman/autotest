@@ -1,0 +1,7 @@
+[INFO ] [16:18:55] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM log_info_repost
+[INFO ] [2016-12-26 16:20:40] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM log_info_repost
+[INFO ] [2016-12-26 16:24:31] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM log_info_repost
+[INFO ] [2016-12-26 16:28:18] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM log_info_repost
+[INFO ] [2016-12-26 16:29:04] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM log_info_repost
+[INFO ] [2016-12-26 16:39:22] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM autotesting_case
+[INFO ] [2016-12-26 17:25:08] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - jdbc:oracle:thin:@10.248.26.57:1521:bstst6SELECT * FROM autotesting_case

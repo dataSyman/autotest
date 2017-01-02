@@ -1,0 +1,20 @@
+[ERROR] [2016-12-30 15:57:27] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 15:57:57] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 15:59:08] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:00:42] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:01:34] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:02:45] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:04:19] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:04:48] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:05:19] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:09:01] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:10:50] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:11:13] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:17:24] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:19:59] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:20:18] com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl - 列名无效
+  [ERROR] [2016-12-30 16:33:22] com.hp.cmcc.bboss.autotesting.dbService.OracleService - ORA-00933: SQL 命令未正确结束
+
+  [ERROR] [2016-12-30 16:33:53] com.hp.cmcc.bboss.autotesting.dbService.OracleService - ORA-00933: SQL 命令未正确结束
+
+  

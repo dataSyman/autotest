@@ -1,0 +1,88 @@
+[INFO ] [2016-12-28 10:52:15] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 10:54:34] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 10:57:11] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 10:57:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 10:58:45] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 11:03:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 11:34:57] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 11:35:25] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:34:05] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:34:06] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:34:38] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:34:38] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:34:38] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End14
+[INFO ] [2016-12-28 14:42:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:42:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:42:41] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End14
+[INFO ] [2016-12-28 14:43:58] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:43:59] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:43:59] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End24
+[INFO ] [2016-12-28 14:45:59] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:46:00] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:46:00] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End16
+[INFO ] [2016-12-28 14:48:16] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:48:17] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:48:17] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End16
+[INFO ] [2016-12-28 14:50:06] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:50:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:50:07] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End18
+[INFO ] [2016-12-28 14:54:05] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:54:05] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:54:05] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End12
+[INFO ] [2016-12-28 14:55:44] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:55:45] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:55:45] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End14
+[INFO ] [2016-12-28 14:57:59] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:57:59] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:57:59] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End15
+[INFO ] [2016-12-28 14:59:58] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 14:59:59] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-28 14:59:59] com.hp.cmcc.bboss.autotesting.common.SimpleLogger - End11
+[INFO ] [2016-12-28 16:38:24] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 16:41:19] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 16:44:57] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 16:52:00] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 16:53:35] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 16:58:13] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 18:52:00] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 18:52:24] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 18:54:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 18:55:52] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 18:59:08] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:24:17] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:24:36] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:24:44] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:26:28] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:27:52] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:28:29] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:46:10] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:46:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:46:47] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:46:55] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:47:04] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:47:45] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:49:18] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:49:33] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:50:56] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:51:19] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:51:30] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:58:13] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:58:28] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:58:39] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 19:59:50] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 20:01:56] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:04:22] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:04:54] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:05:39] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:06:19] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:06:50] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:07:15] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:08:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:09:04] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:09:46] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:21:52] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:22:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:23:23] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:26:07] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:28:58] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-28 21:29:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功

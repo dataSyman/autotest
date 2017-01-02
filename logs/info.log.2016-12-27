@@ -1,0 +1,30 @@
+[INFO ] [2016-12-27 10:45:59] com.hp.cmcc.bboss.autotesting.Lib.common.SimpleLogger - 加载驱动正确
+[INFO ] [2016-12-27 10:46:43] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 加载驱动正确
+[INFO ] [2016-12-27 10:51:47] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 成功加载驱动
+[INFO ] [2016-12-27 10:59:05] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 成功加载驱动
+[INFO ] [2016-12-27 10:59:26] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - Io 异常: The Network Adapter could not establish the connection
+[INFO ] [2016-12-27 10:59:56] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 成功加载驱动
+[INFO ] [2016-12-27 10:59:56] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:00:48] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 11:00:48] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:01:23] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 11:01:23] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - Io 异常: The Network Adapter could not establish the connection
+[INFO ] [2016-12-27 11:26:58] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 11:26:58] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:26:58] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:27:35] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 11:27:35] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:27:35] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:29:45] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 11:29:45] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:29:46] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 连接数据库成功
+[INFO ] [2016-12-27 11:30:10] com.hp.cmcc.bboss.autotesting.Lib.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 15:36:00] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 15:40:43] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 15:42:08] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 15:42:41] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 15:56:09] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 18:26:39] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 18:26:40] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
+[INFO ] [2016-12-27 18:27:26] com.hp.cmcc.bboss.autotesting.dbService.OracleService - 驱动加载成功
+[INFO ] [2016-12-27 18:27:26] com.hp.cmcc.bboss.autotesting.dbService.OracleService - Start executeBatch...
