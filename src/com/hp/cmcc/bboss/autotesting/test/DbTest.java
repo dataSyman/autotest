@@ -1,6 +1,10 @@
 package com.hp.cmcc.bboss.autotesting.test;
 
-import com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckgroupDaoImpl;
+import java.sql.ResultSet;
+import java.util.List;
+
+import com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingCheckOperationInfoDaoImpl;
+import com.hp.cmcc.bboss.autotesting.dao.impl.AutotestingChecktableDaoImpl;
 
 
 public class DbTest {
@@ -31,9 +35,20 @@ public class DbTest {
 //		int i = new AutotestingCheckgroupDaoImpl().executeBatch();
 		
 		
-		new AutotestingCheckgroupDaoImpl().executeBatch();
+//		new AutotestingCheckgroupDaoImpl().executeBatch();
+		String sql="select * from autotesting_operationInfo where operation_id=11";
+		ResultSet rs =new AutotestingCheckOperationInfoDaoImpl().getCheckInfIds(sql, null);
+		String params="";
+		while(rs.next()){
+			params = rs.getString("check_inf_ids");
+		}
+		
+		sql ="select owner,table_name from autotesting_checktable where check_inf_id in (" + params + ")";
+		List<Object> list = new AutotestingChecktableDaoImpl().getCheckTable(sql, null);
+		System.out.println(list.toString());
 		
 		
 	}
 
 }
+ 

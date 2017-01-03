@@ -18,7 +18,7 @@ import com.hp.cmcc.bboss.autotesting.common.SimpleLogger;
 public class XMLParser
 {
 	
-	private static String nodeText[]=new String[10];
+	private static String nodeText[];
 	private static int i;
 	
    /**
@@ -122,6 +122,7 @@ public class XMLParser
            //遍历所有的元素节点  
            try{
         	   i=0;
+        	   nodeText=new String[10];
         	   listNodes(root,nodeName);
            }catch(StopMsgException e){
 //        	   System.out.println(e.getMessage());

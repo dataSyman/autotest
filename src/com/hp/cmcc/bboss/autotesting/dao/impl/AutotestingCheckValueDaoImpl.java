@@ -8,16 +8,15 @@ import java.util.HashMap;
 import java.util.Map;
 
 import com.hp.cmcc.bboss.autotesting.common.SimpleLogger;
-import com.hp.cmcc.bboss.autotesting.dao.AutotestingCheckgroupDao;
+import com.hp.cmcc.bboss.autotesting.dao.AutotestingCheckValueDao;
 import com.hp.cmcc.bboss.autotesting.dbService.OracleService;
 import com.hp.cmcc.bboss.autotesting.po.autotesting_checkgroup;
 import com.hp.cmcc.bboss.autotesting.xmlService.XMLParser;
 
-public class AutotestingCheckgroupDaoImpl implements AutotestingCheckgroupDao {
-	int checkGroupId=100000000;
-
-	public int executeBatch() {
-		 String sql ="insert into autotesting_checkgroup (CHECK_GROUP_ID, TEST_CASE_ID, STEP_ID, OPERATION_ID) values (?,?,?,?)";
+public class AutotestingCheckValueDaoImpl implements AutotestingCheckValueDao{
+	
+	public int executeBatch(){
+		String sql ="insert into autotesting_checkvalue (check_value_id, check_point_id, cp_group_type, check_value) values (?,?,?,?)";
 		 OracleService service = new OracleService();
 		 Connection connection = service.getConnection();
 		 final int batchSize = 1000;
@@ -50,7 +49,7 @@ public class AutotestingCheckgroupDaoImpl implements AutotestingCheckgroupDao {
 //						   ps.setLong(3, ac.getStep_id());
 //					       ps.setLong(4, ac.getOperation_id());
 						   
-						   ps.setLong(1, Long.valueOf(++checkGroupId));
+						   ps.setLong(1, Long.valueOf(0));
 						   ps.setLong(2, resultSet.getLong("test_case_id"));
 						   ps.setLong(3, Long.valueOf(n++));
 						   ps.setLong(4, Long.valueOf(obj[0]+obj[i]));
@@ -82,54 +81,6 @@ public class AutotestingCheckgroupDaoImpl implements AutotestingCheckgroupDao {
 		
 		
 		return 0;
-	};
-    
-//	public autotesting_checkgroup result2bean(autotesting_checkgroup ac,
-//			Map<String, Object> hm) {
-//		try {
-//			String  obj[]=XMLParser.readStringXml(logInfoDaoImpl.ClobToString(resultSet.getClob("xml_content")),"OperationSubTypeID");
-//			ac.setCheck_group_id(Long.valueOf(++checkGroupId));
-//			ac.setTest_case_id(Long.valueOf(hm.get("test_case_id").toString()));
-//			ac.setStep_id(Long.valueOf(hm.get("step_id").toString()));
-//			ac.setOperation_id(Long.valueOf(hm.get("operation_id").toString()));
-//			return ac;
-//		} catch (SQLException e) {
-//			SimpleLogger.logError(AutotestingCheckgroupDaoImpl.class,
-//					e.getMessage());
-//		}
-//		return null;
-//	};
-	
-	public String getEcgroupId(String orderId){
-		String sql="select * from serv_biz_code where order_id=" + orderId;
-		ResultSet resultSet = new OracleService().executeQueryRS(sql, null);
-		Object object = null;
-		try {
-			if (resultSet.next()) {
-				object = resultSet.getObject("ec_group_id");
-			}
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			SimpleLogger.logError(this.getClass(), e.getMessage());
-		}
-		return object.toString();
 	}
-	
-	public String getTestCaseId(String checkGroupId){
-		String sql="select * from autotesting_checkgroup where check_group_id=" + checkGroupId;
-		ResultSet resultSet = new OracleService().executeQueryRS(sql, null);
-		Object object = null;
-		try {
-			if (resultSet.next()) {
-				object = resultSet.getObject("ec_group_id");
-			}
-		} catch (SQLException e) {
-			// TODO Auto-generated catch block
-			SimpleLogger.logError(this.getClass(), e.getMessage());
-		}
-		HashMap<String,String>  hm = new HashMap<String,String>();
-		return object.toString();
-	}
-	
 
 }

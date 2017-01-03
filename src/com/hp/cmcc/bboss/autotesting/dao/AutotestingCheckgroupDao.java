@@ -17,7 +17,7 @@ public abstract interface AutotestingCheckgroupDao {
      * @param resultSet
      * @return
      */
-	public abstract autotesting_checkgroup result2bean(autotesting_checkgroup ac, Map<String, Object> hm);
+//	public abstract autotesting_checkgroup result2bean(autotesting_checkgroup ac, Map<String, Object> hm);
 	/**
 	 * 获取EC_GROUP_ID
 	 * @param orderId 产品订购ID
